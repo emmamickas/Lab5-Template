@@ -6,7 +6,7 @@
 - include a working diskimage in your submission.
 
 ## Details:
-- All final project submissions will be done in this project. Submit Level one, two and three here on their respective due dates.
+- All final project submissions (plus lab 5) will be done in this repo. Submit Level one, two and three here on their respective due dates.
     - We will clone them at the normal submission time. 
 - Demo will be a litte different, join the zoom call and be prepared to share your screen and run your code. 
 - Sign up (individuals AND partners) at this google sheet link.
